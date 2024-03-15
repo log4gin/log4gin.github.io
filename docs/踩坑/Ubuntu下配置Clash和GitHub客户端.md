@@ -1,7 +1,6 @@
-# [Ubuntu下配置 Clash和GitHub客户端](https://github.com/log4gin/log4gin/issues/13)
+# Ubuntu下配置 Clash和GitHub客户端
 
 
-[Clash下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 Ubuntu下Clash正常配置完成后还需要系统这边开启代理
 
 配置完成后就可以正常科学上网了
