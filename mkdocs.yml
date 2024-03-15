@@ -23,7 +23,7 @@ theme:
     # - navigation.instant # 瞬间加载 最好注释掉，多语言切换这个会导致跳回首页
     - navigation.instant.prefetch # 预加载
     - navigation.instant.progress # 进度条
-    # - navigation.path # 导航路径， 目前好像没啥用
+    - navigation.path # 导航路径， 目前好像没啥用
     # - navigation.prune # 只构建可见的页面
     - navigation.sections # 导航栏的section
     - navigation.tabs # 顶级索引被作为tab
