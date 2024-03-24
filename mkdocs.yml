@@ -3,7 +3,7 @@ copyright: Copyright &copy; 2024 Gin
 
 theme:
   name: material
-  logo: https://github.com/log4gin.png
+  logo: material/cat
   favicon: https://github.com/log4gin.png
   language: zh
 
@@ -37,15 +37,19 @@ theme:
     # - toc.integrate # 目录跟踪集成到左侧大目录中
 
 
-  palette: 
+  palette:
     - scheme: default
+      primary: green
+      accent: light green
       toggle:
-        icon: material/weather-night
-        name: 暗色模式
+        icon: material/brightness-7
+        name: 切换到夜晚
     - scheme: slate
+      primary: teal
+      accent: teal
       toggle:
-        icon: material/weather-sunny
-        name: 亮色模式
+        icon: material/brightness-4
+        name: 切换到白天
 
 # 扩展
 markdown_extensions: # markdown extensions
