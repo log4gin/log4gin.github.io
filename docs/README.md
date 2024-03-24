@@ -4,12 +4,11 @@
 
 一个热爱生活的写作者
 
-
-## 联系方式
-
 !!! success "联系方式"
 
     QQ 656335151
+    Mail tomygin@foxmail.com
+    WeChat tomygin
 
 ## 友情链接
 
