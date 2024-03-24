@@ -39,8 +39,6 @@ theme:
 
   palette:
     - scheme: default
-      primary: green
-      accent: light green
       toggle:
         icon: material/brightness-7
         name: 切换到夜晚
