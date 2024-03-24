@@ -3,8 +3,8 @@ copyright: Copyright &copy; 2024 Gin
 
 theme:
   name: material
-  logo: material/cat
-  favicon: https://github.com/log4gin.png
+  logo: https://github.com/log4gin.png
+  favicon: material/cat
   language: zh
 
   features: # 功能  
