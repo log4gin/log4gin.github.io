@@ -34,7 +34,7 @@ theme:
     - search.share # 搜索分享
     - search.suggest # 搜索建议
     - toc.follow # 目录跟踪-页面右侧的小目录
-    - toc.integrate # 目录跟踪集成到左侧大目录中
+    # - toc.integrate # 目录跟踪集成到左侧大目录中
 
 
   palette:
@@ -52,13 +52,6 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: 黑夜
-    - media: "(prefers-color-scheme: dark)" # 深色
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: 自动
 
 # 扩展
 markdown_extensions: # markdown extensions
