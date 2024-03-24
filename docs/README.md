@@ -7,8 +7,10 @@
 !!! success "联系方式"
 
     QQ 656335151
-    Mail tomygin@foxmail.com
-    WeChat tomygin
+
+    Email tomygin@foxmail.com
+
+
 
 ## 友情链接
 
